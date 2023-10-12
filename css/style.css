@@ -63,7 +63,8 @@ header .main-menu .navbar .nav-item .nav-link {
 
 /* Banner-area */
 .site-main .site-banner {
-  background: url("/img/banner/home-banner.png") no-repeat 0% 50%;
+  background: url("/Portfolio-Website/img/banner/home-banner.png") no-repeat 0%
+    50%;
 }
 .site-main .site-banner .site-title h3 {
   padding-top: 35%;
@@ -193,7 +194,8 @@ header .main-menu .navbar .nav-item .nav-link {
 }
 
 .site-main .brand-area .experience-area .years-area {
-  background: url(/img/client-info-bg.png) no-repeat 45px 20px;
+  background: url("/Portfolio-Website/img/client-info-bg.png") no-repeat 45px
+    20px;
   padding: 2rem 0;
   width: 40rem;
   height: 18rem;
